@@ -1,6 +1,6 @@
 let lista=[]
 let tentativas = 1;
-let numeroMaximo = 1000
+let numeroMaximo = 1000000000
 let numeroSecreto=gerarNumeroAleatorio()
 
 function exibirTextoNaTela(tag, texto) {
